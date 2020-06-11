@@ -1,2 +1,2 @@
-# skillset
-Skillset for Executives in the 21th Century
+# Go Books
+9 x 9 Strategy and Tactics of the Superhuman AI
