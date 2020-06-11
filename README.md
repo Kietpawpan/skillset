@@ -1,5 +1,5 @@
 # Skillset
-Below are skillset I employed for day-to-day operation as a professional policy analyst and problem solver.
+Below is the skillset I employed for day-to-day operation as a professional policy analyst and public researcher.
 
 1. Financial Literacy
 2. Accounting
