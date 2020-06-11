@@ -1,2 +1,13 @@
-# Go Books
-9 x 9 Strategy and Tactics of the Superhuman AI
+# Skillset
+Below are skillset I employed for day-to-day operation as a professional policy analyst and problem solver.
+
+1. Financial Literacy
+2. Accounting
+3. Marketing
+4. Intelligent Investment
+5. Strategic Planning
+6. Operation Research
+7. Communication
+8. Dressing
+9. House keeping
+10. Self-defense
